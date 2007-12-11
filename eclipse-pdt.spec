@@ -11,7 +11,7 @@ Source0:	http://download.eclipse.org/tools/pdt/downloads/drops/%{buildid}/org.ec
 # Source0-md5:	a3bcc6128a7fd283b1189b70008a66ae
 URL:		http://www.eclipse.org/pdt/
 #Requires:	eclipse-dtp >= 1.5
-Requires:	eclipse-emf-sdo >= 2.3.0
+Requires:	eclipse-emf-sdo-xsd >= 2.3.0
 Requires:	eclipse-gef >= 3.3
 Requires:	eclipse >= 3.3
 #Requires:	eclipse-test-framework >= 3.3
