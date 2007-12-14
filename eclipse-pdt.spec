@@ -4,7 +4,7 @@
 Summary:	PHP Development Tools framework for the Eclipse platform
 Name:		eclipse-pdt
 Version:	1.0
-Release:	1
+Release:	2
 License:	EPL v1.0
 Group:		Development/Tools
 Source0:	http://download.eclipse.org/tools/pdt/downloads/drops/%{buildid}/org.eclipse.php_feature-sdk-%{version}-%{buildid}.zip
