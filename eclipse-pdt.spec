@@ -2,6 +2,7 @@
 # - build from source
 %define		buildid	R20070917
 Summary:	PHP Development Tools framework for the Eclipse platform
+Summary(pl.UTF-8):	Szkielet narzędzi programistycznych PHP dla platformy Eclipse
 Name:		eclipse-pdt
 Version:	1.0
 Release:	2
@@ -29,6 +30,13 @@ Eclipse platform. This project encompasses all development components
 necessary to develop PHP and facilitate extensibility. It leverages
 the existing Web Tools Project in providing developers with PHP
 capabilities.
+
+%description -l pl.UTF-8
+Projekt PDT (PHP Development Tools) udostępnia szkielet narzędzi
+programistycznych PHP dla platformy Eclipse. Projekt ten obejmuje
+wszystkie komponenty potrzebne do tworzenia kodu w PHP i ułatwiające
+rozszerzalność. Wpływa na istniejący projekt narzędzi WWW (Web Tools
+Project) udostępniając programistom elementy dla PHP.
 
 %prep
 %setup -q -c
